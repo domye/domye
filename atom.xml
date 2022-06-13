@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Domyeの小屋</title>
+  
+  
+  <link href="http://domye.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="http://domye.gitee.io/"/>
+  <updated>2022-06-12T17:36:32.292Z</updated>
+  <id>http://domye.gitee.io/</id>
+  
+  <author>
+    <name>Domye</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://domye.gitee.io/posts/4a17b156.html"/>
+    <id>http://domye.gitee.io/posts/4a17b156.html</id>
+    <published>2022-06-07T19:26:09.726Z</published>
+    <updated>2022-06-12T17:36:32.292Z</updated>
+    
+    <content type="html"><![CDATA[<p>发给对方古典风格</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;发给对方古典风格&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
