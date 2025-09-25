@@ -1,8 +1,4 @@
-# 你好，我是 domye 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=666666&center=true&vCenter=true&width=435&lines=欢迎来到我的GitHub主页;热爱编程的开发者;持续学习者" alt="打字效果" />
-</p>
 
 ## 📌 个人简介
 
@@ -14,7 +10,7 @@
 ## 🛠 技术栈 & 工具
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,express,mongodb,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell,java,js,html,css,spring,vue,pinia,nodejs,webpack,vite,gulp,redis,mysql,git,github,docker,nginx,maven,npm,yarn,idea,vscode,sublime,md,ps&perline=20" />
 </p>
 
 ## 📊 GitHub 数据
@@ -24,9 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domye&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=333333"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domye&theme=default&hide_border=true&background=ffffff&stroke=dddddd" />
-</p>
 
 ## 🌐 联系我
 
