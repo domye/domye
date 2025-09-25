@@ -2,10 +2,9 @@
 
 ## 📌 个人简介
 
-- 🎓 [你的教育背景/学习经历]
-- 💻 [你的技术兴趣]
-- 🚀 [你的职业目标]
-- 🎯 [你的当前目标]
+- 目标成为优秀的全栈程序员
+- 目前大二不断学习中
+- 无限进步
 
 ## 🛠 技术栈 & 工具
 
@@ -16,7 +15,7 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domye&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domye&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domye&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=333333"/>
 </p>
 
