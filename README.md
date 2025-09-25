@@ -24,11 +24,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=domye&theme=github-light&hide_border=true&bg_color=ffffff&color=333333&line=1abc9c&point=3498db" alt="GitHub Activity Graph" />
 </p>
 
+
 ## 🌐 联系我
 
 <p align="center">
-  <a href="[你的链接]"><img src="https://img.shields.io/badge/-个人网站-666666?style=flat&logo=About.me&logoColor=white" /></a>
-  <a href="[你的链接]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="[你的链接]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:[你的邮箱]"><img src="https://img.shields.io/badge/-Email-666666?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.domye.top"><img src="https://img.shields.io/badge/-个人网站-666666?style=flat&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:domye1@163.com"><img src="https://img.shields.io/badge/-Email-666666?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
