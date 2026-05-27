@@ -16,7 +16,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=domye&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domye&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=333333"/>
 </p>
 
 <p align="center">
